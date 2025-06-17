@@ -2,4 +2,4 @@ pandas
 matplotlib
 seaborn
 streamlit_folium
-branca.colormap
+branca
